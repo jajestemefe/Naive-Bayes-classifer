@@ -1,0 +1,4 @@
+C:/Users/efe_3/CLionProjects/NaiveBayesClassifier/cmake-build-debug/CMakeFiles/NaiveBayesClassifier.dir
+C:/Users/efe_3/CLionProjects/NaiveBayesClassifier/cmake-build-debug/CMakeFiles/NaiveBayesClassifier1.dir
+C:/Users/efe_3/CLionProjects/NaiveBayesClassifier/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/efe_3/CLionProjects/NaiveBayesClassifier/cmake-build-debug/CMakeFiles/rebuild_cache.dir
